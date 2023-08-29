@@ -1,0 +1,6 @@
+.idea
+node_modules
+.credentials
+results
+files
+/.env
